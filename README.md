@@ -34,4 +34,4 @@ cd BlockQ_SQL
 ---
 
 ## Полезные ссылки
-(Документация PostgreSQL)[https://www.postgresql.org/docs/]
+[Документация PostgreSQL](https://www.postgresql.org/docs/)
